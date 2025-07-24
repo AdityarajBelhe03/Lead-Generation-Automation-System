@@ -318,7 +318,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Documentation**: [Wiki](https://github.com/yourusername/lead-generation-automation/wiki)
 - **Issues**: [GitHub Issues](https://github.com/yourusername/lead-generation-automation/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/lead-generation-automation/discussions)
-- **Email**: support@yourcompany.com
+- **Email**: adityarajbelhe007@gmail.com
 
 ## 🏆 Acknowledgments
 
